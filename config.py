@@ -1,6 +1,6 @@
 """
 config.py — Central configuration for the Mobile Performance Testing Framework
-DP World Performance Engineering CoE
+Performance Engineering CoE
 """
 
 import os
